@@ -8,7 +8,7 @@ export const Hero = () => {
   };
 
   return (
-    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden bg-gradient-warm pt-20">
+    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden bg-gradient-warm">
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
